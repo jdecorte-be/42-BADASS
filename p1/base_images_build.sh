@@ -1,4 +1,6 @@
 #!/bin/bash
 
-docker pull alpine:latest
-docker build --file=Dockerfile --tag=router_jdecorte .
+docker build --file=_jdecorte-1_host -t host_jdecorte .
+docker build --file=_jdecorte-2 -t router_jdecorte .
+
+echo "All Docker images built successfully."
