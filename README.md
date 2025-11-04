@@ -44,17 +44,13 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#technical-details">Technical Details</a> •
+  <a href="#objectives">Objectives</a> •
+  <a href="#docker-images">Docker Images</a> •
+  <a href="#vxlan">VXLAN</a> •
+  <a href="#bgp-evpn">BGP EVPN</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#license">License</a>
 </p>
-
-<div align="center">
-  
-</div>
 
 
 # 🧩 Part 1 - GNS3 Configuration with docker
