@@ -1,27 +1,8 @@
-<h1 align="center">42-BADASS</h1>
-
-<p align="center">
-  <a href="https://github.com/jdecorte-be/42-BADASS">
-    <img src="https://shields.io/badge/42--BADASS-System%20Programming-blueviolet?logoColor=white&labelColor=000000&color=8A2BE2" alt="42-BADASS System Programming">
-  </a>
-  <a href="https://github.com/jdecorte-be/42-BADASS">
-    <img src="https://shields.io/badge/Platform-Linux%20x86__64-blue?logo=linux&logoColor=white&labelColor=000000" alt="Linux x86_64 Platform">
-  </a>
-  <a href="https://github.com/jdecorte-be/42-BADASS/stargazers">
-    <img src="https://shields.io/github/stars/jdecorte-be/42-BADASS?logo=star&logoColor=white&labelColor=000000&color=yellow" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/jdecorte-be/42-BADASS/issues">
-    <img src="https://shields.io/github/issues/jdecorte-be/42-BADASS?logoColor=white&labelColor=000000&color=orange" alt="Open Issues">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#part-1---gns3-configuration-with-docker">🧩 Part 1</a> •
-  <a href="#objectives">⚙️ Objectives</a> •
-  <a href="#docker-images">🧱 Docker Images</a> •
-  <a href="#image-1---host-base-system">🐋 Image 1</a> •
-  <a href="#image-2---router-network-daemon-system">🐋 Image 2</a> •
-  <a href="#part-2---discovering-vxlan">🌐 Part 2</
+<h1 align="center">
+  <a href="https://github.com/jdecorte-be/42-BADASS"><img src="assets/banner.png" alt="42-BADASS" ></a>
+  42-BADASS
+  <br>
+</h1>
 
 <p align="center">
   <a href="https://github.com/jdecorte-be/42-BADASS">
@@ -217,3 +198,4 @@ Below is an example of a minimal **EVPN fabric** composed of two routers and two
                                        +--------+--------+
                                        |   Host 2 (VNI 10) |
                                        +--------------------+
+
